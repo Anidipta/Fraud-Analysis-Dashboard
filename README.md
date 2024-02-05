@@ -7,5 +7,5 @@ A fraud detection system using money transaction psychology leveraging one-class
 ## Dashboard :
 [Fraud Detection Dashboard](https://app.powerbi.com/reportEmbed?reportId=6422fab4-586d-42a6-8bfb-8a044f304b42&autoAuth=true&ctid=23a21599-83e3-45ed-9e32-d7441e300908)
 
-##Contributor :
+## Contributor :
 Anidipta Pal
